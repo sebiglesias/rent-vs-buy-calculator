@@ -1,0 +1,15 @@
+{
+  "name": "Rent vs Buy Calculator \u2014 Break-Even Horizon & 10-Year Wealth",
+  "short_name": "rent-vs-buy-calculator",
+  "start_url": "https://sebiglesias.com.ar/rent-vs-buy-calculator/",
+  "display": "standalone",
+  "background_color": "#0e0d0b",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

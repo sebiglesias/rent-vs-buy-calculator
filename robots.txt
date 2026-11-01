@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sebiglesias.com.ar/rent-vs-buy-calculator/sitemap.xml
